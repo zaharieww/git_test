@@ -1,2 +1,2 @@
 # git_test
-One final test!
+Let's start the journey!
